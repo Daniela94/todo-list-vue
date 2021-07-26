@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "label": "apples",
+      "purchased": true,
+      "highPriority": false
+    },
+    {
+      "id": 2,
+      "label": "milk",
+      "purchased": false,
+      "highPriority": false
+    },
+    {
+      "id": 3,
+      "label": "mouse",
+      "purchased": true,
+      "highPriority": true
+    }
+  ]
+}
