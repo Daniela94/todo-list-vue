@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: '/todo-list-vue/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/todo-list-vue/'
+    : '/'
 }

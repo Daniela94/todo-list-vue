@@ -9,10 +9,13 @@
     "start": "json-server --watch db.json --port $PORT"
   },
   "dependencies": {
+    "@popperjs/core": "^2.9.2",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
     "core-js": "^3.6.5",
+    "gem": "^2.4.3",
     "json-server": "^0.16.3",
+    "travis": "^0.1.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
